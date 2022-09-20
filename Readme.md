@@ -16,16 +16,14 @@ exit console window
 
 ## HOW TO GET IT TO WORK?
 Requires libraries listed below:  
-<code>
-1. import psutil  
-1. import playsound  
-1. import pywintypes  
-1. import win32api  
-1. import win32con  
-1. import pyautogui  
-1. from time import sleep
 
-</code>
+<code> 1. import psutil  </code>
+<code> 2. import playsound  </code>
+<code> 3. import pywintypes  </code>
+<code> 4. import win32api  </code>
+<code> 5. import win32con  </code>
+<code> 6. import pyautogui  </code>
+<code> 7. from time import sleep  </code>
 
 
 Additional work required to get it to run the python script ASA charger gets plugged in.  
