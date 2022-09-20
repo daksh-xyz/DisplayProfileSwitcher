@@ -54,7 +54,7 @@ In the Source field:
 In the event ID:  
 &nbsp;&nbsp;&nbsp;Enter &nbsp;<code>"105"&nbsp;</code>
 
-## ET VOILA IT SHOULD NOW WORK WHEN YOU PLUG INN YOUR LAPTOP(OR PLUG IT OUT) 
+## ET VOILA IT SHOULD NOW WORK WHEN YOU PLUG IN YOUR LAPTOP (OR PLUG IT OUT) 
 <br>
 <br>
 
