@@ -36,25 +36,25 @@ To do that:
 1. Go to Actions tab on the top,
 1. Click on New on the bottom left
 1. Under settings in the program/script section enter your python.exe path which would something like this:  
-<mark>C:\Users\UserName\AppData\Local\Programs\Python\Python310\python.exe</mark>  
+<code>C:\Users\UserName\AppData\Local\Programs\Python\Python310\python.exe</code>  
 
-1. In the &nbsp;<mark>"Add arguments"</mark>&nbsp; field enter the name of the file in this case:  
-<mark>main.py</mark>
+1. In the &nbsp;<code>"Add arguments"</code>&nbsp; field enter the name of the file in this case:  
+<code>main.py</code>
 
-1. In the &nbsp;<mark>"Start In"</mark>&nbsp; field enter the PATH of the FOLDER where &nbsp;<mark>"main.py"</mark>&nbsp; is present
-1. UNCHECK ALL CONDITIONS from &nbsp;<mark>"conditions"</mark>&nbsp; tab to prevent any errors.
+1. In the &nbsp;<code>"Start In"</code>&nbsp; field enter the PATH of the FOLDER where &nbsp;<code>"main.py"</code>&nbsp; is present
+1. UNCHECK ALL CONDITIONS from &nbsp;<code>"conditions"</code>&nbsp; tab to prevent any errors.
 1. ## SETTING A TRIGGER TO EXECUTE A FILE  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THIS IS A LAGGY PART!  
 1. Click on TRIGGERS tab
 2. Click on New
 1. In Begin a task:  
-Click on the drop down menu and select &nbsp;<mark>"ON AN EVENT"</mark>&nbsp;  
+Click on the drop down menu and select &nbsp;<code>"ON AN EVENT"</code>&nbsp;  
 In the log field:  
-&nbsp;&nbsp;&nbsp;scroll down to the end and select &nbsp;<mark>"System"&nbsp;</mark>  
+&nbsp;&nbsp;&nbsp;scroll down to the end and select &nbsp;<code>"System"&nbsp;</code>  
 In the Source field:  
-&nbsp;&nbsp;&nbsp;scroll down to find &nbsp;<mark>"Kernel-Power"&nbsp;</mark>  
+&nbsp;&nbsp;&nbsp;scroll down to find &nbsp;<code>"Kernel-Power"&nbsp;</code>  
 In the event ID:  
-&nbsp;&nbsp;&nbsp;Enter &nbsp;<mark>"105"&nbsp;</mark>
+&nbsp;&nbsp;&nbsp;Enter &nbsp;<code>"105"&nbsp;</code>
 
 ## ET VOILA IT SHOULD NOW WORK WHEN YOU PLUG INN YOUR LAPTOP(OR PLUG IT OUT) 
 <br>
