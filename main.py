@@ -68,12 +68,16 @@ def confirmation_message():
                 --------------------------------------------
                 Do you want to change screen settings?
                 y/n: ''')
+    y = input('\n\nDo you want to toggle HDR?: ')
     if user_input == 'n':
         pass
     else:
-        hdrcon()
         sleep(3)
         changeres()
+    if y == 'y':
+        hdrcon()
+    else:
+        pass
 confirmation_message()
 
 def charging_alarm():
